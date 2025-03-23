@@ -1,5 +1,4 @@
 Hi there 👋
-
 I'm a passionate data analyst and aspiring data scientist based in Austin, TX, currently pursuing my Master’s in Information Studies – Data Science Track from The University of Texas at Austin, with a strong foundation in Computer Science and IT from Symbiosis University, India.
 
 💡 A curious problem solver and constant learner, I thrive on turning complex data into clear, actionable insights.
@@ -8,9 +7,8 @@ I'm a passionate data analyst and aspiring data scientist based in Austin, TX, c
 
 🤝 Known for fostering cross-functional collaboration and bringing clarity to chaos through intuitive dashboards and data storytelling.
 
+🔧 Technical Skills
 
-
-🔧** Technical Skills**
 Languages: Python, SQL, R, HTML/CSS
 
 Tools: Power BI, Tableau, Excel, SurveyMonkey, Google Data Studio, AWS
@@ -19,9 +17,8 @@ Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, La
 
 Project Management: Agile, Scrum, Jira
 
+📬 Let’s Connect
 
-
-📬 **Let’s connect!**
 📧 Email: anushreepatil5957@gmail.com
 
 💼 LinkedIn: linkedin.com/in/anushreepatil01
