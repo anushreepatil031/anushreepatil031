@@ -8,15 +8,19 @@ I'm a passionate data analyst and aspiring data scientist based in Austin, TX, c
 
 🤝 Known for fostering cross-functional collaboration and bringing clarity to chaos through intuitive dashboards and data storytelling.
 
+
+
 🔧 Technical Skills
 
-Languages: Python, SQL, R, HTML/CSS
+-> Languages: Python, SQL, R, HTML/CSS
 
-Tools: Power BI, Tableau, Excel, SurveyMonkey, Google Data Studio, AWS
+-> Tools: Power BI, Tableau, Excel, SurveyMonkey, Google Data Studio, AWS
 
-Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, LangChain, OpenAI, Pinecone
+-> Libraries/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, LangChain, OpenAI, Pinecone
 
-Project Management: Agile, Scrum, Jira
+-> Project Management: Agile, Scrum, Jira
+
+
 
 📬 Let’s connect!
 
